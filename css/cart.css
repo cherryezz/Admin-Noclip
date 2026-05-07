@@ -1,0 +1,3 @@
+main{max-width:800px;margin:0 auto}
+#cart-items{display:grid;gap:10px}
+.total{font-size:1.4rem;margin:12px 0}
